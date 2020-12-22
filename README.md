@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hey! Rishabh here 👋
+
+Software developer from Bangalore. Computer Science student at BITS Pilani, Goa.
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rish-0-0)
+
+## Few of my NPM Packages
+
+### Nirmaan
+
+Templates for code bootstrapping. Contains GraphQL, Express, React Apps and so on. Includes docker setup.
+
+```bash
+npx nirmaan
+```
+
+### Astroreha
+
+Astrological Calculations and Chart Generating Library
+
+```bash
+npm install --save astroreha
+```
+
+### Karigiri
+
+First CSS/SCSS/SASS Library for beautiful templating
+
+```bash
+npm install --save karigiri
+```
