@@ -1,32 +1,13 @@
 <!--
 **rish-0-0/rish-0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 ## Hey! Rishabh here 👋
 
-Software developer from Bangalore. Computer Science student at BITS Pilani, Goa.
+Software developer from Bangalore. Graduated with Computer Science '21 from BITS Pilani, Goa. Believe in the power of education and a big fan of opensource development.
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rish-0-0)
 
-## Few of my NPM Packages
-
-### Nirmaan
-
-Templates for code bootstrapping. Contains GraphQL, Express, React Apps and so on. Includes docker setup.
-
-```bash
-npx nirmaan
-```
+## My NPM Packages
 
 ### Astroreha
 
@@ -36,10 +17,9 @@ Astrological Calculations and Chart Generating Library
 npm install --save astroreha
 ```
 
-### Karigiri
-
-First CSS/SCSS/SASS Library for beautiful templating
-
-```bash
-npm install --save karigiri
-```
+- 🔭 I’m currently working on `parallel-state`: A library to help with making javascript state containers in a worker context which has support for `react` hooks.
+- 🌱 I’m currently learning `elixir`, `golang`, `rust` and `webassembly`.
+- 👯 I’m looking to collaborate on anything which helps the world. Cryptocurrency as well.
+- 💬 Ask me about anything `react`. It's my favourite choice for developing websites.
+- 📫 How to reach me: `admin@rishabh-anand.com`
+- ⚡ Fun fact: `GraphQL` has nothing to do with Graph Databases 😂
