@@ -9,6 +9,14 @@ Software developer from Bangalore. Graduated with Computer Science '21 from BITS
 
 ## My NPM Packages
 
+### Use Parallel State
+
+React's useReducer / useState Hook reimagined in an OFF-MAIN-THREAD fashion. (Based on the Actor Model)
+
+```bash
+npm i -S use-parallel-state
+```
+
 ### Astroreha
 
 Astrological Calculations and Chart Generating Library
