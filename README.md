@@ -9,14 +9,6 @@ Software developer from Bangalore. Graduated with Computer Science '21 from BITS
 
 ## My NPM Packages
 
-### Use Parallel State
-
-React's useReducer / useState Hook reimagined in an OFF-MAIN-THREAD fashion. (Based on the Actor Model)
-
-```bash
-npm i -S use-parallel-state
-```
-
 ### Astroreha
 
 Astrological Calculations and Chart Generating Library
@@ -25,9 +17,11 @@ Astrological Calculations and Chart Generating Library
 npm install --save astroreha
 ```
 
-- 🔭 I’m currently working on `parallel-state`: A library to help with making javascript state containers in a worker context which has support for `react` hooks.
+- 🔭 I’m currently working on `use-parallel-state`: A library to help with making javascript state containers in a worker context which has support for `react` hooks.
+- ⚙️ I have around 3y experience with JavaScript and about 2y experience with TypeScript.
 - 🌱 I’m currently learning `elixir`, `golang`, `rust` and `webassembly`.
 - 👯 I’m looking to collaborate on anything which helps the world. Cryptocurrency as well.
 - 💬 Ask me about anything `react`. It's my favourite choice for developing websites.
 - 📫 How to reach me: `admin@rishabh-anand.com`
 - ⚡ Fun fact: `GraphQL` has nothing to do with Graph Databases 😂
+- 😠 I like redux, but would do anything to get around it 😂
