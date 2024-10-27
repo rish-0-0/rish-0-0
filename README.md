@@ -17,7 +17,7 @@ Software developer from Bangalore. Graduated with Computer Science '21 from BITS
 
 ### Neo-Flow-Viz
 
-It is a visualization Library for React Projects, written in Typescript. It uses ReactFlow as the underlying Graph Library and the response and Query Format it builds on is for Neo4j.
+It is a Neo4j Graph visualization Library for React Projects, written in Typescript. It uses ReactFlow as the underlying Graph Library and the response and Query Format it builds on is for Neo4j.
 
 ```bash
 npm install --save neo-flow-viz
