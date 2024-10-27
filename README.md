@@ -5,7 +5,13 @@
 
 Software developer from Bangalore. Graduated with Computer Science '21 from BITS Pilani, Goa. Believe in the power of education and a big fan of opensource development.
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rish-0-0)
+<a href="https://www.linkedin.com/in/rish-0-0" rel="nofollow noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/rish-0-0/" rel="nofollow noreferrer">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
 
 ## My NPM Packages
 
@@ -25,7 +31,7 @@ Astrological Calculations and Chart Generating Library. Got 10 ⭐s
 npm install --save astroreha
 ```
 
-- 🔭 I’m currently working on `use-parallel-state`: A library to help with making javascript state containers in a worker context which has support for `react` hooks.
+- 🔭 I'm currently working on `mae`. It is a tool for management and employees to get at better together at management 🤝.
 - ⚙️ I have 3.5y of Software Development Experience working in a ☁️ Cloud Security / Data Security Company (DSPM if anyone is interested).
 - 🔥 My major strength would be the ability to learn very quickly. 
 - 🌱 I’m currently learning `elixir`, `golang`, `rust` and `webassembly`.
