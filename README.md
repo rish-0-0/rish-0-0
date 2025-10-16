@@ -13,6 +13,15 @@ Software developer from Bangalore. Graduated with Computer Science '21 from BITS
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
 
+
+## My Python Packages
+
+It is a CRUD Generator called basilisk. It supports GraphQL as well, and comes with an opt-in MCP router as well!
+
+```bash
+pip install basilisk
+```
+
 ## My NPM Packages
 
 ### Neo-Flow-Viz
@@ -30,6 +39,7 @@ Astrological Calculations and Chart Generating Library. Got 10 ⭐s
 ```bash
 npm install --save astroreha
 ```
+
 
 - 🔭 I'm currently learning ThreeJS. Some 3d animation has struck my interest.
 - ⚙️ I have 4y of Software Development Experience working in a ☁️ Cloud / Data / Privacy Security.
