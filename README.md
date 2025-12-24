@@ -13,15 +13,6 @@ Software developer from Bangalore. Graduated with Computer Science '21 from BITS
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
 
-
-## My Python Packages
-
-It is a CRUD Generator called basilisk. It supports GraphQL as well, and comes with an opt-in MCP router as well!
-
-```bash
-pip install basilisk
-```
-
 ## My NPM Packages
 
 ### Neo-Flow-Viz
@@ -40,12 +31,20 @@ Astrological Calculations and Chart Generating Library. Got 10 ⭐s
 npm install --save astroreha
 ```
 
+## My Python Packages
+
+It is a CRUD Generator called basilisk. It supports GraphQL as well, and comes with an opt-in MCP router as well!
+
+```bash
+pip install basilisk
+```
+
 
 - 🔭 I'm currently learning ThreeJS. Some 3d animation has struck my interest.
-- ⚙️ I have 4y of Software Development Experience working in a ☁️ Cloud / Data / Privacy Security.
+- ⚙️ I have 5y of Software Development Experience working in a ☁️ Cloud / Data / Privacy Security.
 - 🔥 My major strength would be the ability to learn very quickly. 
-- 🌱 I’m currently learning `elixir`, `golang`, `rust` and `webassembly`.
-- 👯 I'm a big fastify fan. Shotout @mcollina. I have written a fastify CRUD generator. Currently privated.
+- 🌱 I’m currently learning `webassembly` and `system design`.
+- 👯 I'm a big fastify fan. Shotout @mcollina. I have written a fastify CRUD generator and a fastapi CRUD generator. Currently privated.
 - 💬 Ask me about anything `react`. It's my favourite choice for developing websites.
 - 📫 How to reach me: `rishabhanand42@gmail.com`
 - ⚡ Fun fact: `GraphQL` has nothing to do with Graph Databases 😂
