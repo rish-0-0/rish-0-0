@@ -41,11 +41,11 @@ pip install basilisk
 
 
 - 🔭 I'm currently learning ThreeJS. Some 3d animation has struck my interest.
-- ⚙️ I have 5y of Software Development Experience working in a ☁️ Cloud / Data / Privacy Security.
+- ⚙️ I have 6y of Software Development Experience working in a ☁️ Cloud / Data / Privacy Security.
 - 🔥 My major strength would be the ability to learn very quickly. 
 - 🌱 I’m currently learning `webassembly` and `system design`.
 - 👯 I'm a big fastify fan. Shotout @mcollina. I have written a fastify CRUD generator and a fastapi CRUD generator. Currently privated.
 - 💬 Ask me about anything `react`. It's my favourite choice for developing websites.
-- 📫 How to reach me: `rishabhanand42@gmail.com`
+- 📫 How to reach me: `admin@rishabh-anand.com`
 - ⚡ Fun fact: `GraphQL` has nothing to do with Graph Databases 😂
 - 😠 I like redux, but would do anything to get around it 😂
