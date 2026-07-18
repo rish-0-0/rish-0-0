@@ -5,7 +5,7 @@
 
 Software developer from Bangalore. Graduated with Computer Science '21 from BITS Pilani, Goa. Believe in the power of education and a big fan of opensource development.
 
-[![Portfolio](https://img.shields.io/badge/Visit%20my%20Portfolio!-8A2BE2)](https://rishabh-anand.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linked.in/in/rish-0-0) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/rish-0-0/)
+[![Portfolio](https://img.shields.io/badge/Visit%20my%20Portfolio!-8A2BE2)](https://rishabh-anand.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/rish-0-0) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/rish-0-0/)
 
 ## Some of my Fine tuned models
 
