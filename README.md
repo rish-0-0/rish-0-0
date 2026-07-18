@@ -7,6 +7,13 @@ Software developer from Bangalore. Graduated with Computer Science '21 from BITS
 
 [![Portfolio](https://img.shields.io/badge/Visit%20my%20Portfolio!-8A2BE2)](https://rishabh-anand.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linked.in/in/rish-0-0) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/rish-0-0/)
 
+## Some of my Fine tuned models
+
+### Agent Strudel
+This is a fine tuned version of SmolLM-135M. I spent $67-ish to train it by making an agent using Claude Agents SDK, by running a bilevel loop of Claude Sonnet-5s generating "valid" strudel code and the other LLM call validating the same generated strudel code would be useful for fine training is, is also adding something good to the dataset, etc.
+Then using ONNX and WASM I am running it on my [website](https://rishabh-anand.com/agent-dj/) completely free and without a server.
+
+
 ## My NPM Packages
 
 ### Neo-Flow-Viz
