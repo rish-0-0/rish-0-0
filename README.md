@@ -5,17 +5,7 @@
 
 Software developer from Bangalore. Graduated with Computer Science '21 from BITS Pilani, Goa. Believe in the power of education and a big fan of opensource development.
 
-<a href="https://www.rishabh-anand.com">
-  <img src="https://img.shields.io/badge/Visit%20my%20Portfolio!-8A2BE2" />
-</a>
-
-<a href="https://www.linkedin.com/in/rish-0-0" rel="nofollow noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/rish-0-0/" rel="nofollow noreferrer">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Visit%20my%20Portfolio!-8A2BE2)](https://rishabh-anand.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linked.in/in/rish-0-0) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/rish-0-0/)
 
 ## My NPM Packages
 
