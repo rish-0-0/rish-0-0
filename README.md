@@ -10,8 +10,9 @@ Software developer from Bangalore. Graduated with Computer Science '21 from BITS
 ## Some of my Fine tuned models
 
 ### Agent Strudel
-This is a fine tuned version of SmolLM-135M. I spent $67-ish to train it by making an agent using Claude Agents SDK, by running a bilevel loop of Claude Sonnet-5s generating "valid" strudel code and the other LLM call validating the same generated strudel code would be useful for fine training is, is also adding something good to the dataset, etc.
-Then using ONNX and WASM I am running it on my [website](https://rishabh-anand.com/agent-dj/) completely free and without a server.
+This is a fine tuned version of SmolLM-135M. I spent $67-ish to train it by making an agent using Claude Agents SDK, by running a bilevel loop of Claude Sonnet-5s generating "valid" strudel code and the other LLM call validating the same generated strudel code deciding whether it would be useful for fine tuning and an addition to the dataset to remove any particular genre bias.
+You can ask it questions like: "Generate a groovy indian fusion with german edm". 
+Then using ONNX and WASM I am running it on my [website](https://rishabh-anand.com/agent-dj/) completely free and without a server. Takes about 30s for a generation.
 
 
 ## My NPM Packages
