@@ -6,7 +6,7 @@
 Software developer from Bangalore. Graduated with Computer Science '21 from BITS Pilani, Goa. Believe in the power of education and a big fan of opensource development.
 
 <a href="https://www.rishabh-anand.com">
-  <img src="https://img.shields.io/badge/Visit%20my%20Portfolio! />
+  <img src="https://img.shields.io/badge/Visit%20my%20Portfolio!-8A2BE2" />
 </a>
 
 <a href="https://www.linkedin.com/in/rish-0-0" rel="nofollow noreferrer">
